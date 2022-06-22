@@ -1,35 +1,35 @@
-title: "American Freedom Tour"
+title: "EventFest - An Events Festival for Events Festivals!"
 description: Your one-stop shop for planning your event at the Austin Convention Center
-url: //american-freedom-tour.austinconventioncenter.com
+url: //sample-event.austinconventioncenter.com
 start_date: 2022-05-14
 end_date: 2022-05-14
 preliminary_floor_plan_deadline: 2022-04-12
 digital_sign_submission_deadline: 2022-04-28
 incentive_rate_deadline: 2022-04-12
 event_coordinator:
-  name: James Randall
-  email: james.randall@austintexas.gov
-  phone: 5124044223
+  name: Example Event Coordinator
+  email: example.coordinator@austintexas.gov
+  phone: 5125551234
 utility_coordinator:
-  name: Ben Hamilton
-  email: ben.hamilton@austintexas.gov
-  phone: 5124044236
+  name: Example Utility Coordinator
+  email: example.coordinator@austintexas.gov
+  phone: 5125551234
 security_coordinator:
-  name: David Ortiz
-  email: David.Ortiz@austintexas.gov
-  phone: 5124044071
+  name: Example Security Coordinator
+  email: example.coordinator@austintexas.gov
+  phone: 5125551234
 sales_manager:
-  name: Regina Salinas
-  email: regina.salinas@austintexas.gov
-  phone: 5124044204
+  name: Example Sales Manager
+  email: example.sales@austintexas.gov
+  phone: 5125551234
 catering_manager:
-  name: Kerry Craig
-  email: kcraig@levyrestaurants.com
-  phone: 5124044137
+  name: Example Catering Manager
+  email: example.catering@austintexas.gov
+  phone: 5125551234
 it_coordinator:
-  name: Chad Paine
-  email: chad.paine@austintexas.gov
-  phone: 5124044098
+  name: Example IT Coordinator
+  email: example.coordinator@austintexas.gov
+  phone: 5125551234
 theme: 
 remote_theme: cityofaustin/jekyll-theme-kocurek@v0.3.4
 searchable: true
